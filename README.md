@@ -1,3 +1,8 @@
+# Why is this forked?
+
+I think we can copy a lot of this stuff
+
+
 # Datica HIPAA Compliance Policies
 
 HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
